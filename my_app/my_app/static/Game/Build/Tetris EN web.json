@@ -1,0 +1,16 @@
+{
+"companyName": "Aleksa",
+"productName": "Tetris",
+"productVersion": "1.0",
+"dataUrl": "Tetris EN web.data.unityweb",
+"wasmCodeUrl": "Tetris EN web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Tetris EN web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1E1C26",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
